@@ -1,0 +1,2 @@
+# Whateat
+Automated meal planner
